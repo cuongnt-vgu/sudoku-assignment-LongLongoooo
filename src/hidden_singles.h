@@ -3,6 +3,7 @@
 #include "sudoku.h"
 #include <stdio.h>
 
+
 // typedef struct HiddenSingle_impl
 // {
 //     Cell *p_cell;

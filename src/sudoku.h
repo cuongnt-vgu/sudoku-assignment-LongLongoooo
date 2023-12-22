@@ -4,6 +4,7 @@
 
 #define BOARD_SIZE 9
 
+
 struct Cell_impl
 {
     int row_index;

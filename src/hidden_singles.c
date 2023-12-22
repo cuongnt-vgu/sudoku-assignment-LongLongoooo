@@ -102,6 +102,7 @@ int hidden_singles(SudokuBoard* p_board) {
         }
     }
 
+
     return total_hidden_singles;
 }
 
